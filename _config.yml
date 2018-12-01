@@ -12,7 +12,7 @@ github_repo: "https://github.com/encheng23/encheng23.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Move the world forward with research"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/IMG_20180416_172005_942.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
