@@ -1,7 +1,7 @@
 # Site settings
 title: En Cheng
 SEOTitle: En Cheng | Research
-header-img: img/post-bg-desk.jpg
+header-img: img/IMG_12012018_1.jpg
 email: en.cheng@yale.edu
 description: "War Against Cancer"
 keyword: "Cancer Research, Yale"
@@ -104,5 +104,9 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },
+    {
+        title: "Yale SPH",
+        href: "https://publichealth.yale.edu/"
     }
 ]
